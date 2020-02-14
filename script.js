@@ -22,7 +22,7 @@ $(function()
 	
 	var songs = [{
 		artist: "love u <3",
-		name: "yeu em dai kho",
+		name: "yêu em dại khờ",
 		url: "Musics/yeuemdaikho.mp3",
 		picture: "https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-1/79891556_2550615918598442_765023629212647424_o.jpg?_nc_cat=101&_nc_ohc=cHYBJkXnJ-kAX_yiMa-&_nc_ht=scontent.fhan2-1.fna&oh=0692b636301258859968ac642f1b1366&oe=5ECF46C1"
 	},{
